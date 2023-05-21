@@ -10,7 +10,6 @@
 
 
 
-
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/app_bar"
         android:layout_width="match_parent"
@@ -104,7 +103,6 @@
         app:layout_anchorGravity="bottom|end"
         app:srcCompat="@drawable/outline_photo_camera_24"
         android:contentDescription="@string/floating_button" />
-
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
